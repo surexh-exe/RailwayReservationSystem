@@ -90,6 +90,4 @@ java Main
 - Export tickets as PDF
 - Add unit tests for fare and cancellation modules
 
-## License
 
-This project is for educational purposes.
